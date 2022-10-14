@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![arekjg's GitHub stats](https://github-readme-stats.vercel.app/api?username=arekjg&count_private=true)
+![arekjg's GitHub stats](https://github-readme-stats.vercel.app/api?username=arekjg&count_private=true&show_icons=true&theme=cobalt)
