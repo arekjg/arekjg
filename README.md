@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 ![arekjg's GitHub stats](https://github-readme-stats.vercel.app/api?username=arekjg&count_private=true&theme=dark&hide=stars,prs,issues,contribs&custom_title=My%20Github%20Stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arekjg&theme=dark&layout=compact)](https://github.com/arekjg/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arekjg&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
