@@ -12,7 +12,10 @@ arekjg/arekjg is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-
+<!---
 ![arekjg's GitHub stats](https://github-readme-stats.vercel.app/api?username=arekjg&count_private=true&theme=dark&hide=stars,prs,issues,contribs&card_width=350&custom_title=My%20Github%20Stats)
+--->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=arekjg&theme=dark&border_radius=5)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arekjg&theme=dark&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
