@@ -19,3 +19,8 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](https://streak-stats.demolab.com?user=arekjg&theme=dark&border_radius=5)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arekjg&theme=dark&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+<!---
+![alt text](https://img.icons8.com/color/48/000000/linkedin.png)
+![alt text](https://img.icons8.com/ios/50/000000/github.png)
+--->
