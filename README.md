@@ -24,3 +24,4 @@ You can click the Preview link to take a look at your changes.
 ![alt text](https://img.icons8.com/color/48/000000/linkedin.png)
 ![alt text](https://img.icons8.com/ios/50/000000/github.png)
 --->
+![strava](https://user-images.githubusercontent.com/98057823/196920327-9b037edc-b9ef-4cf1-8868-7f59b257c614.png)
