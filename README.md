@@ -5,6 +5,11 @@
 🏊‍♀️🚴‍♂️🏃‍♂️ In my free time I try my best at swimming, cycling and running.  
 
 <!---
+icons: 32x32
+--->
+
+
+<!---
 You can find me here:  
 [![LinkedIn profile](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/arekjg/)
 [![Strava profile](https://user-images.githubusercontent.com/98057823/196920327-9b037edc-b9ef-4cf1-8868-7f59b257c614.png)](https://www.strava.com/athletes/8749378)
@@ -37,3 +42,9 @@ You can click the Preview link to take a look at your changes.
 
 --->
 
+<!---
+![linkedin3](https://user-images.githubusercontent.com/98057823/197265080-d55963e5-978e-4bbe-a082-f884f7112137.png)
+![Strava profile](https://user-images.githubusercontent.com/98057823/196920327-9b037edc-b9ef-4cf1-8868-7f59b257c614.png)
+![linkedin3](https://user-images.githubusercontent.com/98057823/197266178-6840ef2c-568d-4be4-a9b1-0a3c35298c94.png)
+
+--->
