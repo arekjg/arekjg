@@ -8,6 +8,10 @@
 icons: 32x32
 --->
 
+<!---
+Languages and tech stack: (tech stack or tools?)
+--->
+
 
 <!---
 You can find me here:  
