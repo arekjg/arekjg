@@ -4,12 +4,20 @@
 📚 I'm currenty learning C# and C++. Looking forward to become a software engineer one day!  
 🏊‍♀️🚴‍♂️🏃‍♂️ In my free time I try my best at swimming, cycling and running.  
 
+
+
 <!---
 icons: 32x32
 --->
 
 <!---
 Languages and tech stack: (tech stack or tools?)
+--->
+
+
+<!---
+CodeWars
+[![CodeWars](https://www.codewars.com/users/arekjg/badges/large)](https://www.codewars.com/users/arekjg)
 --->
 
 
