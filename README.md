@@ -21,9 +21,10 @@ CodeWars
 --->
 
 
-<!---
+
 You can find me here:  
 [![LinkedIn profile](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/arekjg/)
+<!---
 [![Strava profile](https://user-images.githubusercontent.com/98057823/196920327-9b037edc-b9ef-4cf1-8868-7f59b257c614.png)](https://www.strava.com/athletes/8749378)
 [![GitHub profile](https://img.icons8.com/ios/50/000000/github.png)](https://github.com/arekjg)
 --->
