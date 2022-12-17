@@ -21,7 +21,9 @@ CodeWars
 
 You can find me here:  
 [![LinkedIn profile](https://user-images.githubusercontent.com/98057823/208238608-54e3bfff-23a2-4716-a42f-1f7a04860b2b.png)](https://www.linkedin.com/in/arekjg/)
+<!---
 [![Strava profile](https://user-images.githubusercontent.com/98057823/208238595-ffc28298-4e59-4d5a-9763-c647633676d9.png)](https://www.strava.com/athletes/8749378)
+--->
 
 <!---
 arekjg/arekjg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
