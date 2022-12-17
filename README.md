@@ -14,20 +14,14 @@ icons: 32x32
 Languages and tech stack: (tech stack or tools?)
 --->
 
-
 <!---
 CodeWars
 [![CodeWars](https://www.codewars.com/users/arekjg/badges/large)](https://www.codewars.com/users/arekjg)
 --->
 
-
-
 You can find me here:  
-[![LinkedIn profile](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/arekjg/)
-<!---
-[![Strava profile](https://user-images.githubusercontent.com/98057823/196920327-9b037edc-b9ef-4cf1-8868-7f59b257c614.png)](https://www.strava.com/athletes/8749378)
-[![GitHub profile](https://img.icons8.com/ios/50/000000/github.png)](https://github.com/arekjg)
---->
+[![LinkedIn profile](https://user-images.githubusercontent.com/98057823/208238608-54e3bfff-23a2-4716-a42f-1f7a04860b2b.png)](https://www.linkedin.com/in/arekjg/)
+[![Strava profile](https://user-images.githubusercontent.com/98057823/208238595-ffc28298-4e59-4d5a-9763-c647633676d9.png)](https://www.strava.com/athletes/8749378)
 
 <!---
 arekjg/arekjg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
