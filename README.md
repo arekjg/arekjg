@@ -1,7 +1,7 @@
 # Greetings!
 
 👋 I'm Arek. I currenty work as a process engineer in production company.  
-📚 I'm currenty learning C# and C++. Looking forward to become a software engineer one day!  
+📚 I'm currenty learning C#. Looking forward to become a software engineer one day!  
 🏊‍♀️🚴‍♂️🏃‍♂️ In my free time I try my best at swimming, cycling and running.  
 
 
