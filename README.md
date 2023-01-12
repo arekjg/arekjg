@@ -19,8 +19,9 @@ You can find me here:
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=arekjg&theme=dark&border_radius=5)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arekjg&theme=dark&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
 <!---
-![](./profile-3d-contrib/profile-night-view.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arekjg&theme=dark&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 --->
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
