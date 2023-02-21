@@ -17,12 +17,9 @@ You can find me here:
 [![Strava](https://user-images.githubusercontent.com/98057823/208238595-ffc28298-4e59-4d5a-9763-c647633676d9.png)](https://www.strava.com/athletes/8749378)
 --->
 
-<!---
 [![GitHub Streak](https://streak-stats.demolab.com?user=arekjg&theme=dark&border_radius=5)](https://git.io/streak-stats)
---->
-<!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arekjg&theme=dark&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
---->
+
 <!---
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 --->
