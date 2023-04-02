@@ -5,10 +5,17 @@
 🏊‍♀️🚴‍♂️🏃‍♂️ In my free time I try my best at swimming, cycling and running.  
 
 
+<!--- icons: 40x40 --->
 <!---
 Languages and tech stack: (tech stack or tools?)
-![cccs](https://user-images.githubusercontent.com/98057823/228654478-862b65a2-9b92-4cf9-8e56-efb4bf2ae58b.png)
+
+![cs](https://user-images.githubusercontent.com/98057823/228654478-862b65a2-9b92-4cf9-8e56-efb4bf2ae58b.png)
+![python](https://user-images.githubusercontent.com/98057823/229371862-b768fae7-6876-4296-8034-0862bfa11d8a.png)
+![vs](https://user-images.githubusercontent.com/98057823/229372049-5f9f0a95-7b2d-42ea-850b-30ee3ff094b6.png)
+![vscode](https://user-images.githubusercontent.com/98057823/229372152-d7d70c9a-6278-4e27-8472-c2cf6408035b.png)
+![cpp](https://user-images.githubusercontent.com/98057823/229372330-303cd855-fc23-47ef-9ff7-c97b7dbf6426.png)
 --->
+
 
 
 <!--- icons: 40x40 --->
