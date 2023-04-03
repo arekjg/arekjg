@@ -1,8 +1,8 @@
 # Greetings!
 
-👋 I'm Arek. I currenty work as a process engineer in production company.  
-📚 I'm currenty learning C#. Looking forward to become a software developer one day!  
-🏊‍♀️🚴‍♂️🏃‍♂️ In my free time I try my best at swimming, cycling and running.  
+:wave: I'm Arek. I currenty work as a process engineer in production company.  
+:computer: I'm currenty learning C#. Looking forward to become a software developer one day!  
+:swimmer: :bike: :runner: In my free time I try my best at swimming, cycling and running.  
 
 
 <!--- icons: 40x40 --->
