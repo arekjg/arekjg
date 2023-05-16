@@ -6,9 +6,11 @@
 :swimmer: :bike: :runner: In my free time I try my best at swimming, cycling and running.  
 --->
 
+
 <!--- icons: 40x40 --->
 <!---
 Languages and tech stack: (tech stack or tools?)
+
 
 ![cs](https://user-images.githubusercontent.com/98057823/228654478-862b65a2-9b92-4cf9-8e56-efb4bf2ae58b.png)
 ![python](https://user-images.githubusercontent.com/98057823/229371862-b768fae7-6876-4296-8034-0862bfa11d8a.png)
@@ -30,6 +32,7 @@ You can find me here:
 --->
 <!--- (https://git.io/streak-stats) --->
 <!--- (https://github.com/anuraghazra/github-readme-stats) --->
+
 
 <!---
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
