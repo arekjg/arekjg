@@ -20,7 +20,6 @@ Languages and tech stack: (tech stack or tools?)
 --->
 
 
-
 <!--- icons: 40x40 --->
 You can find me here:  
 [![LinkedIn](https://user-images.githubusercontent.com/98057823/208238608-54e3bfff-23a2-4716-a42f-1f7a04860b2b.png)](https://www.linkedin.com/in/arekjg/)
