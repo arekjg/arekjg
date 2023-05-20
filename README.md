@@ -1,6 +1,7 @@
 # Greetings!
 
-:wave: I'm Arek. I'm a self-taught programmer.  
+:wave: I'm Arek.
+<!--- I'm a self-taught programmer.  --->
 <!---
 :computer: I'm currenty learning C#. Looking forward to become a software developer one day!  
 :swimmer: :bike: :runner: In my free time I try my best at swimming, cycling and running.  
