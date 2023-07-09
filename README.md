@@ -1,12 +1,7 @@
-<!---
 # Greetings!
 
 :wave: I'm Arek.  
-I'm a self-taught programmer and I'm currently learning C#. --->
-<!---
-:computer: I'm currenty learning C#. Looking forward to become a software developer one day!  
-:swimmer: :bike: :runner: In my free time I try my best at swimming, cycling and running.  
---->
+I'm a self-taught programmer and I'm currently learning C#.
 
 
 <!--- icons: 40x40 --->
