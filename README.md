@@ -3,7 +3,6 @@
 :wave: I'm Arek.  
 I'm a self-taught programmer and I'm currently learning C#.<br>
 
-
 <!--- icons: 40x40 --->
 <!---
 Languages and tech stack: (tech stack or tools?)
