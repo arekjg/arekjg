@@ -1,7 +1,7 @@
 # Greetings!
 
 :wave: I'm Arek.  
-I'm a self-taught programmer and I'm currently learning C#.<br>
+I'm a self-taught programmer and I currently work as a C# developer.
 
 <!--- icons: 40x40 --->
 <!---
@@ -17,8 +17,8 @@ Languages and tech stack: (tech stack or tools?)
 
 
 <!--- icons: 40x40 --->
-<!--- You can find me here:  
-[![LinkedIn](https://user-images.githubusercontent.com/98057823/208238608-54e3bfff-23a2-4716-a42f-1f7a04860b2b.png)](https://www.linkedin.com/in/arekjg/) --->
+You can find me here:  
+[![LinkedIn](https://user-images.githubusercontent.com/98057823/208238608-54e3bfff-23a2-4716-a42f-1f7a04860b2b.png)](https://www.linkedin.com/in/arekjg/)
 <!--- [![CodeWars](https://user-images.githubusercontent.com/98057823/208774875-f3fa5b2c-ab07-4c98-84a3-a5e5a49cd8db.png)](https://www.codewars.com/users/arekjg) --->
 
 
