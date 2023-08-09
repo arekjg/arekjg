@@ -22,9 +22,9 @@ You can find me here:
 <!--- [![CodeWars](https://user-images.githubusercontent.com/98057823/208774875-f3fa5b2c-ab07-4c98-84a3-a5e5a49cd8db.png)](https://www.codewars.com/users/arekjg) --->
 
 
-<!---
-[![GitHub Streak](https://streak-stats.demolab.com?user=arekjg&theme=dark&border_radius=5)](#) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arekjg&theme=dark&layout=compact&langs_count=10)](#)
---->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=arekjg&theme=dark&border_radius=5)](#)
+<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arekjg&theme=dark&layout=compact&langs_count=10)](#) --->
 <!--- (https://git.io/streak-stats) --->
 <!--- (https://github.com/anuraghazra/github-readme-stats) --->
 
