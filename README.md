@@ -1,7 +1,7 @@
 # Greetings!
 
 :wave: I'm Arek.  
-I'm a self-taught programmer and I currently work as a C# developer.
+I'm a self-taught programmer and I'm currently learning C#.
 
 <!--- icons: 40x40 --->
 <!---
