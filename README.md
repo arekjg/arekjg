@@ -1,7 +1,7 @@
 # Greetings!
 
 :wave: I'm Arek.  
-I'm a self-taught programmer and recently I started my first job as a C# developer.  
+I'm a self-taught programmer and recently I started my first job as a .NET/C# developer.  
 
 
 <!--- icons: 40x40 --->
