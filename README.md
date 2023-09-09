@@ -2,7 +2,7 @@
 
 :wave: I'm Arek.  
 I'm a self-taught programmer and recently I started my first job as a C# developer.  
-Currently still learning C# and SQL.
+Currently still learning C#, .NET and some front-end frameworks.
 
 
 <!--- icons: 40x40 --->
