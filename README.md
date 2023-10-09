@@ -1,10 +1,10 @@
-# Greetings!
+# Hi!
 
 :wave: I'm Arek.  
 I'm a self-taught programmer and recently I started my first job as a C# developer.  
 Currently still learning C#/.NET along with some front-end technologies.
 
-You can find me here:&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/arekjg/"><img src="https://user-images.githubusercontent.com/98057823/208238608-54e3bfff-23a2-4716-a42f-1f7a04860b2b.png" height="30"></a>
+You can find me here:&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/arekjg/"><img src="https://user-images.githubusercontent.com/98057823/208238608-54e3bfff-23a2-4716-a42f-1f7a04860b2b.png" height="20"></a> or checkout my [PORTFOLIO](https://arekjg.github.io/).
 <!--- [![LinkedIn](https://user-images.githubusercontent.com/98057823/208238608-54e3bfff-23a2-4716-a42f-1f7a04860b2b.png)](https://www.linkedin.com/in/arekjg/) --->
 <!--- [![CodeWars](https://user-images.githubusercontent.com/98057823/208774875-f3fa5b2c-ab07-4c98-84a3-a5e5a49cd8db.png)](https://www.codewars.com/users/arekjg) --->
 
