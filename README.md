@@ -17,4 +17,5 @@ Currently still learning C#/.NET along with some front-end technologies.
 <!--- (https://github.com/anuraghazra/github-readme-stats) --->
 
 ### Last year's activity
+(only public repositories)
 ![](./profile-3d-contrib/profile-night-view.svg)
