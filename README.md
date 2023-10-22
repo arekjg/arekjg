@@ -8,8 +8,11 @@ Currently still learning C#/.NET along with some front-end technologies.
 [![LinkedIn](/img/linkedin.png)](https://www.linkedin.com/in/arekjg/)
 [![Portfolio](/img/portfolio.png)](https://arekjg.github.io/)
 
-### Some stats
+### Contributions stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=arekjg&theme=dark&border_radius=5)]([#](https://git.io/streak-stats))
+
+### Programming languages (private & public repos)
+![Programmin Languages](/img/LanguagesChart.png)
 
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arekjg&theme=dark&layout=compact&langs_count=10)]([#](https://github.com/anuraghazra/github-readme-stats)) --->
 
