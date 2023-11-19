@@ -2,15 +2,15 @@
 
 ### 🌌 About me
 
-💻 a self-taught programmer\
+💻 self-taught programmer\
 🕵️‍♂️ recently started my first job as a C# developer\
 🧠 constantly improving my coding skills in C#/.NET\
 🔬 currently learning some frontend technologies and web development
 
 ### 🔭 Check me out
 
-<a href="https://www.linkedin.com/in/arekjg/"><img src="./img/i-li.svg" height="50" alt="linkedin"/></a>
-<a href="https://arekjg.github.io/"><img src="./img/i-www.svg" height="50" alt="www"/></a>
+<a href="https://www.linkedin.com/in/arekjg/" target="_blank"><img src="./img/i-li.svg" height="50" alt="linkedin"/></a>
+<a href="https://arekjg.github.io/" target="_blank"><img src="./img/i-www.svg" height="50" alt="www"/></a>
 
 ### 🎯 Tech stack
 
@@ -32,7 +32,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=arekjg&theme=dark&border_radius=5)](<[#](https://git.io/streak-stats)>)
 
 ![Programmin Languages](/img/LanguagesChart.png)\
-<sup>Chart made with [GitHubStats](https://github.com/arekjg/github-stats-ui), includes private and public repos - last update: 05/11/2023</sup>
+<sup>Chart made with [GitHubStats](https://github.com/arekjg/github-stats-ui), includes private and public repos - last update: 19/11/2023</sup>
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arekjg&theme=dark&layout=compact&langs_count=10)]([#](https://github.com/anuraghazra/github-readme-stats))
