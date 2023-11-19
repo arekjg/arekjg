@@ -1,30 +1,42 @@
-# :wave: Hi! I'm Arek. Welcome to my GitHub!
+# 👋 Hi! I'm Arek. Welcome to my GitHub!
 
-### 🌌 About me:
+### 🌌 About me
+
 💻 a self-taught programmer\
 🕵️‍♂️ recently started my first job as a C# developer\
-🧠 constantly improving my coding skill in C#/.NET\
-🔬 learning front end technologies like JS and React
+🧠 constantly improving my coding skills in C#/.NET\
+🔬 currently learning some frontend technologies and web development
 
 ### 🔭 Check me out
-[![LinkedIn](/img/linkedin.png)](https://www.linkedin.com/in/arekjg/)
-[![Portfolio](/img/portfolio.png)](https://arekjg.github.io/)
 
+<a href="https://www.linkedin.com/in/arekjg/"><img src="./img/i-li.svg" height="50" alt="linkedin"/></a>
+<a href="https://arekjg.github.io/"><img src="./img/i-www.svg" height="50" alt="www"/></a>
 
+### 🎯 Tech stack
+
+<div>
+<img src="./img/i-cs.svg" height="50" alt="cs"/>
+<img src="./img/i-mssql.svg" height="50" alt="mssql"/>
+<img src="./img/i-html.svg" height="50" alt="html"/>
+<img src="./img/i-css.svg" height="50" alt="css"/>
+<img src="./img/i-js.svg" height="50" alt="js"/>
+<img src="./img/i-react.svg" height="50" alt="react"/>
+<img src="./img/i-python.svg" height="50" alt="python"/>
+<img src="./img/i-vs.svg" height="50" alt="vs"/>
+<img src="./img/i-vscode.svg" height="50" alt="vscode"/>
+<img src="./img/i-git.svg" height="50" alt="git"/>
+</div>
 
 ### 📈 My GithHub stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=arekjg&theme=dark&border_radius=5)](<[#](https://git.io/streak-stats)>)
+
 ![Programmin Languages](/img/LanguagesChart.png)\
 <sup>Chart made with [GitHubStats](https://github.com/arekjg/github-stats-ui), includes private and public repos - last update: 05/11/2023</sup>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=arekjg&theme=dark&border_radius=5)]([#](https://git.io/streak-stats))
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arekjg&theme=dark&layout=compact&langs_count=10)]([#](https://github.com/anuraghazra/github-readme-stats))
+ -->
 
-<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arekjg&theme=dark&layout=compact&langs_count=10)]([#](https://github.com/anuraghazra/github-readme-stats)) --->
-
-<!--- (https://git.io/streak-stats) --->
-<!--- (https://github.com/anuraghazra/github-readme-stats) --->
-
-<!---
-### Last year's activity
-(only public repositories)
 ![](./profile-3d-contrib/profile-night-view.svg)
---->
+<sup>Chart made with [GitHub Profile 3D Contrib.](https://github.com/yoshi389111/github-profile-3d-contrib), shows last year's contributions</sup>
