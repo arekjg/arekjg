@@ -16,6 +16,7 @@
 
 <div>
 <img src="./img/i-cs.svg" height="50" alt="cs"/>
+<img src="./img/i-dotnet.svg" height="50" alt="dotnet"/>
 <img src="./img/i-mssql.svg" height="50" alt="mssql"/>
 <img src="./img/i-html.svg" height="50" alt="html"/>
 <img src="./img/i-css.svg" height="50" alt="css"/>
