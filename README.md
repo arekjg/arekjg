@@ -5,14 +5,14 @@
 💻 self-taught programmer\
 🕵️‍♂️ recently started my first job as a C# developer\
 🧠 constantly improving my coding skills in C#/.NET\
-🔬 currently learning some frontend technologies and web development
+🔬 currently learning frontend technologies and web dev
 
 ### 🔭 Check me out
 
 <a href="https://www.linkedin.com/in/arekjg/" target="_blank"><img src="./img/i-li.svg" height="50" alt="linkedin"/></a>
 <a href="https://arekjg.github.io/" target="_blank"><img src="./img/i-www.svg" height="50" alt="www"/></a>
 
-### 🎯 Tech stack
+### 🎯 Languages & tools
 
 <div>
 <img src="./img/i-cs.svg" height="50" alt="cs"/>
@@ -22,15 +22,14 @@
 <img src="./img/i-css.svg" height="50" alt="css"/>
 <img src="./img/i-js.svg" height="50" alt="js"/>
 <img src="./img/i-react.svg" height="50" alt="react"/>
-<img src="./img/i-python.svg" height="50" alt="python"/>
 <img src="./img/i-vs.svg" height="50" alt="vs"/>
 <img src="./img/i-vscode.svg" height="50" alt="vscode"/>
-<img src="./img/i-git.svg" height="50" alt="git"/>
 </div>
 
 ### 📈 My GithHub stats
-
+<!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=arekjg&theme=dark&border_radius=5)](<[#](https://git.io/streak-stats)>)
+-->
 
 ![Programmin Languages](/img/LanguagesChart.png)\
 <sup>Chart made with [GitHubStats](https://github.com/arekjg/github-stats-ui), includes private and public repos - last update: 19/11/2023</sup>
