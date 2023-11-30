@@ -9,21 +9,21 @@
 
 ### 🔭 Check me out
 
-<a href="https://www.linkedin.com/in/arekjg/" target="_blank"><img src="./img/i-li.svg" height="50" alt="linkedin"/></a>
-<a href="https://arekjg.github.io/" target="_blank"><img src="./img/i-www.svg" height="50" alt="www"/></a>
+<a href="https://www.linkedin.com/in/arekjg/" target="_blank"><img src="./img/i-li.svg" height="40" alt="linkedin"/></a>
+<a href="https://arekjg.github.io/" target="_blank"><img src="./img/i-www.svg" height="40" alt="www"/></a>
 
 ### 🎯 Languages & tools
 
 <div>
-<img src="./img/i-cs.svg" height="50" alt="cs"/>
-<img src="./img/i-dotnet.svg" height="50" alt="dotnet"/>
-<img src="./img/i-mssql.svg" height="50" alt="mssql"/>
-<img src="./img/i-html.svg" height="50" alt="html"/>
-<img src="./img/i-css.svg" height="50" alt="css"/>
-<img src="./img/i-js.svg" height="50" alt="js"/>
-<img src="./img/i-react.svg" height="50" alt="react"/>
-<img src="./img/i-vs.svg" height="50" alt="vs"/>
-<img src="./img/i-vscode.svg" height="50" alt="vscode"/>
+<img src="./img/i-cs.svg" height="40" alt="cs"/>
+<img src="./img/i-dotnet.svg" height="40" alt="dotnet"/>
+<img src="./img/i-mssql.svg" height="40" alt="mssql"/>
+<img src="./img/i-html.svg" height="40" alt="html"/>
+<img src="./img/i-css.svg" height="40" alt="css"/>
+<img src="./img/i-js.svg" height="40" alt="js"/>
+<img src="./img/i-react.svg" height="40" alt="react"/>
+<img src="./img/i-vs.svg" height="40" alt="vs"/>
+<img src="./img/i-vscode.svg" height="40" alt="vscode"/>
 </div>
 
 ### 📈 My GithHub stats
