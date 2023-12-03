@@ -32,7 +32,7 @@
 -->
 
 ![Programmin Languages](/img/LanguagesChart.png)\
-<sup>Chart made with [GitHubStats](https://github.com/arekjg/github-stats-ui), includes private and public repos - last update: 19/11/2023</sup>
+<sup>Chart made with [GitHubStats](https://github.com/arekjg/github-stats-ui), includes private and public repos - last update: 03/12/2023</sup>
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arekjg&theme=dark&layout=compact&langs_count=10)]([#](https://github.com/anuraghazra/github-readme-stats))
