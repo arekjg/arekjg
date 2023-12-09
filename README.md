@@ -38,5 +38,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arekjg&theme=dark&layout=compact&langs_count=10)]([#](https://github.com/anuraghazra/github-readme-stats))
  -->
 
-![](./profile-3d-contrib/profile-night-view.svg)
-<sup>Chart made with [GitHub Profile 3D Contrib.](https://github.com/yoshi389111/github-profile-3d-contrib), shows last year's contributions</sup>
+<!-- ![](./profile-3d-contrib/profile-night-view.svg)
+<sup>Chart made with [GitHub Profile 3D Contrib.](https://github.com/yoshi389111/github-profile-3d-contrib), shows last year's contributions</sup> -->
