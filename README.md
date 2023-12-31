@@ -40,3 +40,6 @@
 
 <!-- ![](./profile-3d-contrib/profile-night-view.svg)
 <sup>Chart made with [GitHub Profile 3D Contrib.](https://github.com/yoshi389111/github-profile-3d-contrib), shows last year's contributions</sup> -->
+
+
+![](https://komarev.com/ghpvc/?username=arekjg&color=141414&style=for-the-badge)
