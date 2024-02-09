@@ -4,10 +4,9 @@
 
 💻 self-taught programmer\
 🕵️‍♂️ recently started my first job as a C# developer\
-🧠 constantly improving my coding skills in C#/.NET\
-🔬 currently learning frontend technologies and web dev
+🧠 constantly improving my coding skills in C#/.NET and learning new things
 
-### 🔭 Check me out
+### 🔭 Connect with me
 
 <a href="https://www.linkedin.com/in/arekjg/" target="_blank"><img src="./img/i-li.svg" height="40" alt="linkedin"/></a>
 <a href="https://arekjg.github.io/" target="_blank"><img src="./img/i-www.svg" height="40" alt="www"/></a>
@@ -34,12 +33,5 @@
 ![Programmin Languages](/img/LanguagesChart.png)\
 <sup>Chart made with [GitHubStats](https://github.com/arekjg/github-stats-ui), includes private and public repos - last update: 20/01/2024</sup>
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arekjg&theme=dark&layout=compact&langs_count=10)]([#](https://github.com/anuraghazra/github-readme-stats))
- -->
-
 <!-- ![](./profile-3d-contrib/profile-night-view.svg)
 <sup>Chart made with [GitHub Profile 3D Contrib.](https://github.com/yoshi389111/github-profile-3d-contrib), shows last year's contributions</sup> -->
-
-
-<!-- ![](https://komarev.com/ghpvc/?username=arekjg&color=141414&style=for-the-badge) -->
