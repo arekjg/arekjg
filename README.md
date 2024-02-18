@@ -3,7 +3,7 @@
 ### 🌌 About me
 
 💻 self-taught programmer\
-🕵️‍♂️ recently started my first job as a C# developer\
+🕵️‍♂️ currently working as a Junior C# Developer\
 🧠 constantly improving my coding skills in C#/.NET and learning new things
 
 ### 🔭 Connect with me
