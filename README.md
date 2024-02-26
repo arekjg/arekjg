@@ -31,7 +31,7 @@
 -->
 
 ![Programmin Languages](/img/LanguagesChart.png)\
-<sup>Chart made with [GitHubStats](https://github.com/arekjg/GitHubStats), includes private and public repos - last update: 09/02/2024</sup>
+<sup>Chart made with [GitHubStats](https://github.com/arekjg/GitHubStats), includes private and public repos - last update: 26/02/2024</sup>
 
 <!-- ![](./profile-3d-contrib/profile-night-view.svg)
 <sup>Chart made with [GitHub Profile 3D Contrib.](https://github.com/yoshi389111/github-profile-3d-contrib), shows last year's contributions</sup> -->
