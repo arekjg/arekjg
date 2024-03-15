@@ -26,12 +26,8 @@
 </div>
 
 ### 📈 My GithHub stats
-<!--
-[![GitHub Streak](https://streak-stats.demolab.com?user=arekjg&theme=dark&border_radius=5)](<[#](https://git.io/streak-stats)>)
--->
 
-![Programmin Languages](/img/LanguagesChart.png)\
-<sup>Chart made with [GitHubStats](https://github.com/arekjg/GitHubStats), includes private and public repos - last update: 26/02/2024</sup>
-
-<!-- ![](./profile-3d-contrib/profile-night-view.svg)
-<sup>Chart made with [GitHub Profile 3D Contrib.](https://github.com/yoshi389111/github-profile-3d-contrib), shows last year's contributions</sup> -->
+![Programming Languages](/img/LanguagesChart.png)\
+![Repositories](/img/ReposChart.png)
+![Contributions](/img/ContributionsChart.png)\
+<sup>Charts made with [GitHubStats](https://github.com/arekjg/GitHubStats), include private and public repos - last update: 15/03/2024</sup>
