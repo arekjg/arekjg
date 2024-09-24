@@ -13,6 +13,6 @@
 ### 📈 My GithHub stats
 
 ![Programming Languages](/img/LanguagesChart.png)\
-![Repositories](/img/ReposChart.png)
-![Contributions](/img/ContributionsChart.png)\
-<sup>Charts made with [GitHubStats](https://github.com/arekjg/GitHubStats), include private and public repos - last update: 27/08/2024</sup>
+<sup>Chart made with [GitHubStats](https://github.com/arekjg/GitHubStats), include private and public repos - last update: 27/08/2024</sup>
+<!-- ![Repositories](/img/ReposChart.png)
+![Contributions](/img/ContributionsChart.png)\ -->
